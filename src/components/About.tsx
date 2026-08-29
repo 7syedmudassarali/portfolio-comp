@@ -61,7 +61,7 @@ export function About() {
             <img
               src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop"
               alt="Data Science and Computation"
-              className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 border border-gray-800"
+              className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 border border-gray-800 rounded-2xl"
             />
             <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
               COMPUTER ENGINEERING & AI LABS — UET LAHORE
@@ -75,7 +75,7 @@ export function About() {
             <img
               src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1200&auto=format&fit=crop"
               alt="Software development & systems"
-              className="w-full h-auto grayscale border border-gray-800"
+              className="w-full h-auto grayscale border border-gray-800 rounded-2xl"
             />
             <p className="mt-4 text-xs text-gray-500 tracking-widest uppercase">
               SYSTEMS ENGINEERING & CONCURRENCY WORKFLOWS (2026)

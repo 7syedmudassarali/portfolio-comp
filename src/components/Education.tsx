@@ -72,7 +72,7 @@ export function Education() {
                 <img
                   src={edu.image}
                   alt={edu.institution}
-                  className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 border border-gray-800"
+                  className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 border border-gray-800 rounded-2xl"
                 />
                 <p className="mt-4 text-xs font-mono text-gray-500 tracking-widest uppercase">
                   {edu.imageLabel}
