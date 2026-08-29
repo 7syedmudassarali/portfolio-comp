@@ -34,14 +34,6 @@ export function Hero() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, ease: 'easeOut' }}
           >
-            {/* Tagline / Sub-label */}
-            <div className="flex items-center gap-3 mb-4 md:mb-6">
-              <span className="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              <span className="text-xs sm:text-sm font-mono tracking-widest text-gray-300 uppercase">
-                AI & Machine Learning Specialist • UET Lahore
-              </span>
-            </div>
-
             <h1 className="font-display leading-[0.88] tracking-tighter text-[15vw] sm:text-[12vw] md:text-[9.5vw] lg:text-[8.5rem]">
               <span className="block text-white">SYED</span>
               <span className="block text-white">MUDASSAR</span>

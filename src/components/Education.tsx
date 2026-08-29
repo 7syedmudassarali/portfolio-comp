@@ -7,7 +7,6 @@ const educationList = [
     degree: 'Bachelor of Science in Artificial Intelligence',
     period: '2025 — 2029 (In Progress)',
     status: 'Current Status: 4th Semester • Expected Graduation: Jan 2029',
-    grade: 'Cumulative GPA Result to Date: 85.28%',
     description: 'Comprehensive study of artificial intelligence, deep learning architectures, mathematical optimization, statistical inference, algorithmic systems, and computational data science.',
     image: 'https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1200&auto=format&fit=crop',
     imageLabel: 'UET LAHORE — BS ARTIFICIAL INTELLIGENCE (2025 — 2029)',
@@ -18,7 +17,6 @@ const educationList = [
     degree: 'Intermediate in Computer Science (ICS)',
     period: '2022 — 2024',
     status: 'Completed',
-    grade: 'Final Score: 70.25%',
     description: 'Built robust foundations in computer science theory, discrete mathematics, analytical reasoning, and basic software engineering practices.',
     image: 'https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1200&auto=format&fit=crop',
     imageLabel: 'PUNJAB COLLEGE — INTERMEDIATE IN COMPUTER SCIENCE',
@@ -29,7 +27,6 @@ const educationList = [
     degree: 'Matriculation in Computer Science',
     period: '2020 — 2022',
     status: 'Completed with Distinction',
-    grade: 'Final Score: 77.72%',
     description: 'Secondary academic foundation in mathematics, general science, and introductory information technology with high academic performance.',
     image: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200&auto=format&fit=crop',
     imageLabel: 'CH RAHMAT ALI MEMORIAL — MATRICULATION IN CS',
@@ -90,10 +87,7 @@ export function Education() {
               >
                 <div>
                   <div className="flex flex-wrap items-center gap-3 mb-2">
-                    <span className="px-2.5 py-0.5 text-xs font-mono text-emerald-400 bg-emerald-950/40 border border-emerald-800/40 rounded">
-                      {edu.grade}
-                    </span>
-                    <span className="text-xs font-mono text-gray-500">
+                    <span className="text-xs font-mono text-gray-400">
                       {edu.period}
                     </span>
                   </div>

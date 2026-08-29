@@ -20,8 +20,8 @@ const projects = [
   {
     title: 'Department Timetable Management System',
     category: 'Optimization & Algorithms',
-    period: 'Department of Electrical Engineering',
-    description: 'Developed an automated class scheduling application to resolve complex timetable conflicts across semesters, instructors, and laboratory resources, minimizing schedule friction and streamlining academic operations.',
+    period: 'Department of Electrical Engineering, UET Lahore',
+    description: 'Developed an automated class scheduling application used by the Department of Electrical Engineering at UET Lahore to resolve complex timetable conflicts across semesters, instructors, and laboratory resources, minimizing schedule friction and streamlining academic operations.',
     tags: ['Python', 'Constraint Optimization', 'Scheduling Algorithms', 'Data Modeling'],
     link: 'https://github.com/7syedmudassarali',
   },

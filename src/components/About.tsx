@@ -23,7 +23,7 @@ export function About() {
             {...fadeInUp}
           >
             <p className="text-xl lg:text-2xl text-gray-200 leading-relaxed font-light">
-              Syed Mudassar Ali is an Artificial Intelligence and Machine Learning specialist currently pursuing a Bachelor of Science in AI at the University of Engineering and Technology (UET) Lahore. Maintaining an <span className="text-white font-medium">85.28% cumulative GPA</span>, he combines rigorous mathematical foundations with hands-on software development across neural networks, machine learning algorithms, and distributed database logic.
+              Syed Mudassar Ali is an Artificial Intelligence and Machine Learning specialist currently pursuing a Bachelor of Science in AI at the University of Engineering and Technology (UET) Lahore. He combines rigorous mathematical foundations with hands-on software development across neural networks, machine learning algorithms, and distributed database logic.
             </p>
           </motion.div>
         </div>
@@ -88,7 +88,7 @@ export function About() {
             className="flex items-center"
           >
             <p className="text-base lg:text-lg text-gray-300 leading-relaxed font-light">
-              Mudassar has architected production systems including an anti-cheating, high-concurrency <span className="text-white font-medium">University Quiz Portal System</span> and an automated <span className="text-white font-medium">Departmental Timetable Management System</span>. Recognized by the Government of Pakistan under the Prime Minister's Laptop Scheme, he also holds certifications in Generative AI and Ethical Hacking.
+              Mudassar has architected production systems including an anti-cheating, high-concurrency <span className="text-white font-medium">University Quiz Portal System</span> and an automated <span className="text-white font-medium">Departmental Timetable Management System</span> used by the Department of Electrical Engineering, UET Lahore. Recognized by the Government of Pakistan under the Prime Minister's Laptop Scheme, he also holds certifications in Generative AI and Ethical Hacking.
             </p>
           </motion.div>
         </div>
