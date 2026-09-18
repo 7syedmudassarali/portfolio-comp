@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 
-const profileImageUrl = "https://media.licdn.com/dms/image/v2/D4D03AQFsdxvW1LRrgA/profile-displayphoto-crop_800_800/B4DZ3PrgLOHYAI-/0/1777305781615?e=1789603200&v=beta&t=ro-XyI_elthyAKKTsswmua5ZnEWEeEr_nrYZHgBVQ30"
+const profileImageUrl = "https://media.licdn.com/dms/image/v2/D4D03AQFsdxvW1LRrgA/profile-displayphoto-crop_800_800/B4DZ3PrgLOHYAI-/0/1777305781615?e=1791417600&v=beta&t=pHy6kXOMTS_e9Rr2_YXqv9gwhZJy-cai6Vy4I6y3-sQ"
 
 export function Hero() {
   return (
